@@ -3,11 +3,11 @@ class Main
  public static void main(String[] args)
   {
     
-   int first = 50;
-    int second = 20;
+   int a = 50;
+    int b = 20;
 
     // add two numbers
-    int sum = first * second;
+    int sum = a * b;
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
